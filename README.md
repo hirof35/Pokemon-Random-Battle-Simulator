@@ -43,3 +43,4 @@ Bash
 技の選択: 構造体内に「技」の配列を持たせ、威力の異なる攻撃を可能にする。
 
 永続化: 対戦成績をファイルに保存する機能の追加。
+<img width="1472" height="753" alt="スクリーンショット 2026-05-09 182833" src="https://github.com/user-attachments/assets/8f1a09cf-8b48-4edc-836c-b0e1f8da1f0f" />
